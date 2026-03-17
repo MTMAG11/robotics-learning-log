@@ -6,4 +6,7 @@ Learned:
  - How to create folders within a repo in Github
 
 Next:
- - Create first CAD models. (I have been experimenting with CAD for a couple days, I have the basics down.)
+ - Create first CAD models.
+Note:
+ - I have been experimenting with CAD for a couple days, I have the basics down.
+ - I found a Youtuber named TooTallToby who provides excellent CAD models for viewers to create.
