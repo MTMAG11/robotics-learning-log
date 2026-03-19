@@ -24,3 +24,15 @@ Next:
 
 Note:
  - Drone parts expected to arrive on friday 3/20
+
+3/18/2026
+Goal:
+ - Like just work on cadding and get better at the basics
+
+Learned:
+ - How to import stl files and adjust them
+
+Next:
+ - Set up python
+
+Note: Uploaded Xbox Controller Stand to cad/Misc Projects
