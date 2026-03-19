@@ -1,4 +1,5 @@
 3/16/2026
+
 Goal: Set up Github and start CADing
 
 Learned: 
@@ -12,7 +13,9 @@ Note:
  - I have been experimenting with CAD for a couple days, I have the basics down.
  - I found a Youtuber named TooTallToby who provides excellent CAD models for viewers to create.
 
+
 3/17/2026
+
 Goal: Upload CAD files
 
 Learned:
@@ -25,7 +28,9 @@ Next:
 Note:
  - Drone parts expected to arrive on friday 3/20
 
+
 3/18/2026
+
 Goal:
  - Like just work on cadding and get better at the basics
 
