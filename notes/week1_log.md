@@ -41,3 +41,16 @@ Next:
  - Set up python
 
 Note: Uploaded Xbox Controller Stand to cad/Misc Projects
+
+
+3/19/2026
+
+Goal: 
+ - Develop basic Python script
+
+Learned:
+ - Basics of libraries Numpy and Matplotlib
+
+Next:
+ - Build Drone (Parts arrive tomorrow)
+
